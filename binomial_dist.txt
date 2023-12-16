@@ -1,1 +1,0 @@
-binomial distribution parameters (n,p)
